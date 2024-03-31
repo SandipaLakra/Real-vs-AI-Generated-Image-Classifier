@@ -1,5 +1,4 @@
 
-
 Detecting AI-Generated Images with Precision!
 
 In an era where authenticity is paramount, this endeavor delved into the realm of AI-generated imagery, aiming to enhance trust and transparency. In this project I trained an image classification model to discern between real and AI-generated images
